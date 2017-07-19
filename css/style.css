@@ -1,30 +1,30 @@
 @font-face {
   font-family: "FuturaPT";
-  src: url("fonts/FuturaPTDemi.otf"); }
+  src: url("../fonts/FuturaPTDemi.otf"); }
 
 @font-face {
   font-family: "FuturaPTMedium";
-  src: url("fonts/FuturaPTMedium.otf"); }
+  src: url("../fonts/FuturaPTMedium.otf"); }
 
 @font-face {
   font-family: "FuturaPTHeavy";
-  src: url("fonts/FuturaPTHeavy.otf"); }
+  src: url("../fonts/FuturaPTHeavy.otf"); }
 
 @font-face {
   font-family: "FuturaPTBook";
-  src: url("fonts/FuturaPTBook.otf"); }
+  src: url("../fonts/FuturaPTBook.otf"); }
 
 @font-face {
   font-family: "FuturaPTExtraBold";
-  src: url("fonts/FuturaPTExtraBold.otf"); }
+  src: url("../fonts/FuturaPTExtraBold.otf"); }
 
 @font-face {
   font-family: 'FuturaPTLight';
-  src: url("fonts/FuturaPTLight.otf"); }
+  src: url("../fonts/FuturaPTLight.otf"); }
 
 @font-face {
   font-family: 'Roboto';
-  src: url("fonts/Roboto.ttf"); }
+  src: url("../fonts/Roboto.ttf"); }
 
 ul {
   -webkit-padding-start: 0px;
